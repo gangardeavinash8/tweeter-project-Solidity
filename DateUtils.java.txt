@@ -1,8 +1,0 @@
-public class date{
-
-public void date(){
-
-system.out.println(day.date);
-}
-
-}
